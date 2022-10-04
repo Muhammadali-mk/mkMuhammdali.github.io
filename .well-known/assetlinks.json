@@ -2,7 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "uk.co.jakelee.apodwallpaper",
-    "sha256_cert_fingerprints": ["7B:E3:6A:AF:1C:55:D7:52:D0:A0:65:20:51:8F:D6:D9:EC:1C:EA:85:34:AE:EA:71:3D:04:59:31:3E:17:7F:29"]
+    "package_name": "com.ridecharge.android.taximagic",
+    "sha256_cert_fingerprints":
+    ["0A:09:7F:03:6B:23:DB:A3:92:01:43:54:EA:85:47:EA:F9:5D:6B:0A:DE:B0:A3:DF:62:80:97:B1:F0:98:EF:16"]
   }
 }]
