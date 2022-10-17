@@ -4,6 +4,16 @@
     "namespace": "android_app",
     "package_name": "com.ridecharge.android.taximagic",
     "sha256_cert_fingerprints":
+    ["D9:14:65:8F:0D:49:DE:BA:FB:04:A2:EF:D4:18:C9:1B:B5:69:26:81:09:D8:45:F6:AE:26:97:6A:1E:5E:BA:A4"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ridecharge.android.taximagic",
+    "sha256_cert_fingerprints":
     ["0A:09:7F:03:6B:23:DB:A3:92:01:43:54:EA:85:47:EA:F9:5D:6B:0A:DE:B0:A3:DF:62:80:97:B1:F0:98:EF:16"]
   }
-}]
+}
+]
